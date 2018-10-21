@@ -1,0 +1,13 @@
+.filma24-hover{
+    text-decoration: none;
+}
+.filma24-hover:hover {
+    opacity: .8;
+    color: yellow;
+    border-left-color: #fbff4f;
+    border-left-width: 5px;
+    border-left-style: solid;
+}
+.pagination .page-item .page-link {
+    background-color: #0c5460;
+}
